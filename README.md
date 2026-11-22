@@ -8,7 +8,7 @@ It renders a custom reticle directly over your screen, making it easier to land 
 
 ## 📸 Screenshot
 
-![LGCROS Interface and Overlay](menu.png)
+![LGCROS Interface and Overlay](screenshots/menu.png)
 
 
 ---
