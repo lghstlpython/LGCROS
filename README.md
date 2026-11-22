@@ -8,8 +8,7 @@ It renders a custom reticle directly over your screen, making it easier to land 
 
 ## 📸 Screenshot
 
-![LGCROS Interface and Overlay](link-to-your-screenshot.png)
-*(Replace `link-to-your-screenshot.png` with the URL or path to your image, e.g., `assets/screenshot.png`)*
+![LGCROS Interface and Overlay](menu.png)
 
 ---
 
