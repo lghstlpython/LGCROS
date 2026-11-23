@@ -6,18 +6,33 @@ It renders a custom reticle directly over your screen, making it easier to land 
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-![LGCROS Interface and Overlay](screenshots/menu.png)
+### Crosshair Customization
+![Crosshair Tab](screenshots/menu.png)
 
+<details>
+<summary><b>Click to view more tabs (Position, Presets, Options, About)</b></summary>
+<br>
+
+| Position | Presets |
+| :---: | :---: |
+| ![Position Tab](screenshots/position.png) | ![Presets Tab](screenshots/presets.png) |
+
+| Options | About |
+| :---: | :---: |
+| ![Options Tab](screenshots/options.png) | ![About Tab](screenshots/about.png) |
+
+</details>
 
 ---
 
 ## ✨ Features
 
-* **Full Crosshair Customization:** Adjust the size, line thickness, color, opacity, and shape of your reticle to fit your visual preference.
-* **Precision Alignment:** Fine-tune the X and Y coordinates to ensure the crosshair sits dead-center on any screen resolution or aspect ratio.
-* **Ready-to-Use Presets:** Switch between classic styles (dot, cross, circle) or save custom profiles tailored for different games.
+* **Full Crosshair Customization:** Adjust the style, length, thickness, center gap, dot size, color, and outline of your reticle with instant live preview.
+* **Precision Alignment:** Fine-tune the X and Y coordinates in the **Position** tab to ensure the crosshair sits dead-center on any screen resolution or aspect ratio.
+* **Ready-to-Use Presets:** Switch between classic styles or save custom profiles tailored for different games.
+* **Instant Toggle Hotkey:** Quickly enable or disable the overlay on the fly using the **F8** key.
 * **Zero Performance Impact:** Built as a native, lightweight Windows overlay that runs smoothly without dropping FPS or increasing input lag.
 * **100% Safe Visual Overlay:** Operates strictly as an independent screen overlay—it never reads memory, injects code, or modifies game files.
 
@@ -32,10 +47,10 @@ It renders a custom reticle directly over your screen, making it easier to land 
 
 ## 🚀 Installation & Usage
 
-1. Download the latest **LGCROS** installer (`Setup.exe`) from the [Releases](#) page.
+1. Download the latest **LGCROS** installer (`Setup.exe`) from the [Releases](https://github.com) page.
 2. Run the installer and follow the on-screen instructions.
 3. Launch **LGCROS** and configure your preferred crosshair style, color, and screen position.
-4. Launch your favorite shooter in **Borderless Windowed** mode and start playing.
+4. Press **F8** (or toggle the switch in the top-right corner) to activate the crosshair, launch your game in **Borderless Windowed** mode, and start playing.
 
 ---
 
@@ -60,4 +75,5 @@ LGCROS is purely a visual accessibility tool (similar to built-in gaming monitor
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
 
