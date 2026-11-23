@@ -6,9 +6,16 @@
 
 ## 📸 Screenshots
 
-| Crosshair | Position | Presets | Options | About |
-| :---: | :---: | :---: | :---: | :---: |
-| ![Crosshair Tab](screenshots/menu.png) | ![Position Tab](screenshots/position.png) | ![Presets Tab](screenshots/presets.png) | ![Options Tab](screenshots/options.png) | ![About Tab](screenshots/about.png) |
+### Crosshair
+![Crosshair Tab](screenshots/menu.png)
+
+| Position | Presets |
+| :---: | :---: |
+| ![Position Tab](screenshots/position.png) | ![Presets Tab](screenshots/presets.png) |
+
+| Options | About |
+| :---: | :---: |
+| ![Options Tab](screenshots/options.png) | ![About Tab](screenshots/about.png) |
 
 ---
 
@@ -24,7 +31,7 @@
 ## 💻 System Requirements & Usage
 
 * **OS / Mode:** Windows (Win32), running games in **Borderless Windowed** or **Windowed** mode.
-* **Quick Start:** Download `Setup.exe` from [Releases](https://github.com), configure your reticle, press **F8**, and play (works universally in CS2, PUBG, Call of Duty, Apex Legends, Valorant, Rust, etc.).
+* **Quick Start:** Download `LGCROS_Setup.exe` from [Releases](https://github.com), configure your reticle, press **F8**, and play (works universally in CS2, PUBG, Call of Duty, Apex Legends, Valorant, Rust, etc.).
 
 ---
 
