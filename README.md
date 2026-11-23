@@ -1,79 +1,34 @@
 # LGCROS
 
-**LGCROS** is a lightweight, customizable on-screen crosshair overlay for Windows built to improve your aiming precision in first-person and third-person shooters.
-
-It renders a custom reticle directly over your screen, making it easier to land hip-fire shots, execute sniper no-scopes, and replace hard-to-see default game crosshairs.
+**LGCROS** is a lightweight, customizable on-screen crosshair overlay for Windows designed to improve aiming precision in shooters.
 
 ---
 
 ## 📸 Screenshots
 
-### Crosshair Customization
-![Crosshair Tab](screenshots/menu.png)
-
-<details>
-<summary><b>Click to view more tabs (Position, Presets, Options, About)</b></summary>
-<br>
-
-| Position | Presets |
-| :---: | :---: |
-| ![Position Tab](screenshots/position.png) | ![Presets Tab](screenshots/presets.png) |
-
-| Options | About |
-| :---: | :---: |
-| ![Options Tab](screenshots/options.png) | ![About Tab](screenshots/about.png) |
-
-</details>
+| Crosshair | Position | Presets | Options | About |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Crosshair Tab](screenshots/menu.png) | ![Position Tab](screenshots/position.png) | ![Presets Tab](screenshots/presets.png) | ![Options Tab](screenshots/options.png) | ![About Tab](screenshots/about.png) |
 
 ---
 
 ## ✨ Features
 
-* **Full Crosshair Customization:** Adjust the style, length, thickness, center gap, dot size, color, and outline of your reticle with instant live preview.
-* **Precision Alignment:** Fine-tune the X and Y coordinates in the **Position** tab to ensure the crosshair sits dead-center on any screen resolution or aspect ratio.
-* **Ready-to-Use Presets:** Switch between classic styles or save custom profiles tailored for different games.
-* **Instant Toggle Hotkey:** Quickly enable or disable the overlay on the fly using the **F8** key.
-* **Zero Performance Impact:** Built as a native, lightweight Windows overlay that runs smoothly without dropping FPS or increasing input lag.
-* **100% Safe Visual Overlay:** Operates strictly as an independent screen overlay—it never reads memory, injects code, or modifies game files.
+* **Full Customization:** Adjust style, length, thickness, center gap, dot size, color, and outline with live preview.
+* **Precision Alignment:** Fine-tune X/Y coordinates in the **Position** tab for any resolution or aspect ratio.
+* **Presets & Hotkeys:** Switch profiles or toggle the overlay on/off using the **F8** key.
+* **Safe & Lightweight:** Native Windows overlay with zero FPS/input lag impact and zero game file modification.
 
 ---
 
-## 💻 System Requirements
+## 💻 System Requirements & Usage
 
-* **OS:** Windows (Win32 compatible)
-* **Display Mode:** Borderless Windowed or Windowed mode (required for overlays to render over games).
-
----
-
-## 🚀 Installation & Usage
-
-1. Download the latest **LGCROS** installer (`Setup.exe`) from the [Releases](https://github.com) page.
-2. Run the installer and follow the on-screen instructions.
-3. Launch **LGCROS** and configure your preferred crosshair style, color, and screen position.
-4. Press **F8** (or toggle the switch in the top-right corner) to activate the crosshair, launch your game in **Borderless Windowed** mode, and start playing.
+* **OS / Mode:** Windows (Win32), running games in **Borderless Windowed** or **Windowed** mode.
+* **Quick Start:** Download `Setup.exe` from [Releases](https://github.com), configure your reticle, press **F8**, and play (works universally in CS2, PUBG, Call of Duty, Apex Legends, Valorant, Rust, etc.).
 
 ---
 
-## 🎮 Supported Games
+## ⚠️ Disclaimer & License
 
-LGCROS works universally across any PC shooter, including:
-* Counter-Strike 2 (CS2)
-* PUBG: Battlegrounds
-* Call of Duty / Warzone
-* Apex Legends
-* Valorant
-* Rust & Escape from Tarkov
-
----
-
-## ⚠️ Disclaimer
-
-LGCROS is purely a visual accessibility tool (similar to built-in gaming monitor crosshairs). However, always check the terms of service of specific competitive games before using third-party overlay software.
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
+* **Disclaimer:** Purely a visual accessibility tool; check individual game terms of service before use.
+* **License:** Distributed under the MIT License.
