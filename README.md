@@ -31,7 +31,7 @@
 ## 💻 System Requirements & Usage
 
 * **OS / Mode:** Windows (Win32), running games in **Borderless Windowed** or **Windowed** mode.
-* **Quick Start:** Download `LGCROS_Setup.exe` from [Releases](https://github.com), configure your reticle, press **F8**, and play (works universally in CS2, PUBG, Call of Duty, Apex Legends, Valorant, Rust, etc.).
+* **Quick Start:** Download `LGCROS_Setup.exe` from [Releases](https://github.com/lghstlpython/LGCROS/releases), configure your reticle, press **F8**, and play (works universally in CS2, PUBG, Call of Duty, Apex Legends, Valorant, Rust, etc.).
 
 ---
 
